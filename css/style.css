@@ -1,0 +1,366 @@
+header {
+    font-family: 'Roboto Slab', serif;
+    min-height: 100px;
+    background: white !important;
+}
+
+.head_logo {
+    padding: 10px 0;
+}
+
+.custom_nav {
+    border: 2px solid black;
+    border-top-color: #23A2DC;
+    border-bottom-color: orangered;
+    border-left-color: #4D4D4D;
+    border-right-color: #002761;
+    border-radius: 5px;
+}
+
+.custom_nav ul li a {
+    color: black !important;
+    font-size: 18px;
+    font-weight: 700;
+    padding: 25px 0;
+}
+
+.custom_nav ul li a:hover {
+    transition: 1s;
+    color: red !important;
+}
+
+.btn {
+    background: whitesmoke !important;
+    color: red !important;
+    font-size: 20px;
+    font-weight: 400;
+    margin-top: 20px;
+    border: 1px solid green;
+}
+
+.dropdown-item {
+    color: green !important;
+}
+
+.border {
+    min-height: 30px;
+    background: green !important;
+}
+
+.green {
+    min-height: 30px;
+}
+
+.border_nav {
+    padding: 7px 0;
+
+}
+
+.border_nav ul li a {
+    font-family: 'Roboto Slab', serif;
+    color: white !important;
+    font-size: 15px;
+    font-weight: 700;
+}
+
+.border_nav ul li a:hover {
+    color: red !important;
+    transition: 1s;
+}
+
+.red {
+    background-color: red !important;
+}
+
+.borderleft_nav {
+    padding: 7px 0;
+}
+
+.borderleft_nav ul li a {
+    font-family: 'Roboto Slab', serif;
+    color: white !important;
+    font-size: 15px;
+    font-weight: 700;
+}
+
+.borderleft_nav ul li a:hover {
+    transition: 1s;
+    color: green !important;
+}
+
+.custom_btn {
+    font-family: 'Roboto Slab', serif;
+    border: 1px solid white;
+    background: red !important;
+    color: white !important;
+    font-weight: 400;
+}
+
+.custom_btn:hover {
+    transition: 1s;
+    background: green !important;
+    color: red !important;
+}
+
+.friends {
+    min-height: 500px;
+    background-image: url(../images/cover.JPG);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.research {
+    min-height: 70px;
+    background: red;
+}
+
+.right_text {
+    padding: 24px 0;
+}
+
+.right_text h1 {
+    font-family: 'Chela One', cursive;
+    color: green;
+    font-size: 45px;
+    font-weight: 400;
+}
+
+.left_text {
+    background: green;
+    padding: 24px 100px;
+}
+
+.dropdown2 {}
+
+.btn2 {
+    font-family: 'Chela One', cursive;
+    padding: 8px 30px;
+    background: transparent;
+    border: 2px solid white;
+    color: snow;
+    font-size: 25px;
+    font-weight: 400;
+}
+
+.btn2:hover {
+    background: green;
+    color: red;
+}
+
+.dropdown-menu {}
+
+.custom_drops {}
+
+.dropdown-item {
+    font-family: 'Merriweather', serif;
+    color: red !important;
+    font-size: 18px;
+    font-weight: 900;
+}
+
+.dropdown-item:hover {
+    font-family: 'Merriweather', serif;
+    background-color: green !important;
+    font-size: 18px;
+    font-weight: 900;
+}
+
+
+.work {
+    min-height: 700px;
+    background-color: beige;
+    padding: 70px 0;
+}
+
+.work h1 {
+    font-family: 'Merriweather', serif;
+    padding: 10px 0;
+    font-size: 40px;
+    font-weight: 700;
+    color: black;
+    letter-spacing: 1px;
+}
+
+.work p {
+    font-family: 'Roboto Slab', serif;
+    padding: 5px 0;
+    font-size: 25px;
+    font-weight: 400;
+    color: #47484B;
+}
+
+.work_box {
+    padding: 30px 0;
+}
+
+.work_box h2 {
+    font-family: 'Merriweather', serif;
+    font-size: 20px;
+    font-weight: 400;
+    color: black;
+    letter-spacing: 1px;
+    color: #001D26;
+    padding: 10px 0;
+}
+
+.btn_xx {
+    font-family: 'Roboto Slab', serif;
+    font-size: 20px;
+    font-weight: 400;
+    color: white;
+    border: 2px solid black;
+    border-radius: 5px;
+    text-align: center;
+    background: #0E95CA;
+    padding: 10px 20px;
+}
+
+.btn_xx:hover {
+    background: red;
+    color: wheat;
+    border: 2px solid black;
+    transition: 1s;
+    transform: scale(1.1);
+}
+
+.work_btm{
+    min-height: 20px;
+    padding: 5px 0;
+}
+
+.work_btm1{
+    border-bottom: 10px solid green;
+}
+.work_btm2{
+    border-bottom: 10px solid red;
+}
+
+.joining {
+    min-height: 300px;
+    background: green;
+    background-image: url(../images/hk.jpg);
+    background-size: auto;
+    background-repeat: no-repeat;
+    background-position: left;
+}
+
+.join_left {
+    min-height: 300px;
+}
+
+.join_box {}
+
+.join_box h1 {
+    font-family: 'Merriweather', serif;
+    padding: 30px 0;
+    font-size: 25px;
+    font-weight: 700;
+    color: black;
+    letter-spacing: 1px;
+}
+
+.join_box h2 {
+    font-family: 'Merriweather', serif;
+    font-size: 18px;
+    font-weight: 400;
+    color: white !important;
+    letter-spacing: 1px;
+    padding: 20px 0;
+}
+
+.btn_xyz {
+    font-family: 'Roboto Slab', serif;
+    font-size: 18px;
+    font-weight: 400;
+    color: white;
+    border: 1px solid white;
+    border-radius: 5px;
+    text-align: center;
+    background: #E34E09;
+    padding: 10px 20px;
+}
+
+.foot {
+    min-height: 250px;
+    padding: 33px 0;
+    background-color: #29ABE2;
+}
+
+.foot_box {}
+
+.foot_box h1 {
+    font-family: 'Merriweather', serif;
+    padding: 20px 0;
+    font-size: 20px;
+    font-weight: 700;
+    color: green;
+    letter-spacing: 1px;
+}
+
+.foot_box span {
+    font-family: 'Merriweather', serif;
+    padding: 20px 0;
+    font-size: 20px;
+    font-weight: 700;
+    color: red;
+    letter-spacing: 1px;
+}
+
+.foot_box p {
+    font-family: 'Merriweather', serif;
+    font-size: 12px;
+    font-weight: 700;
+    color: white;
+}
+
+.foot_box p:hover {
+    color: black;
+}
+
+.foot_box h4 {
+    font-family: 'Merriweather', serif;
+    padding: 20px 0;
+    font-size: 20px;
+    font-weight: 700;
+    color: black;
+    letter-spacing: 1px;
+}
+
+.btn_xyp {
+    font-family: 'Roboto Slab', serif;
+    font-size: 18px;
+    font-weight: 400;
+    color: red;
+    border: 1px solid #001D26;
+    border-radius: 5px;
+    text-align: center;
+    background: #F5F5F5;
+    padding: 10px 20px;
+}
+
+.icons {
+    font-family: 'Roboto Slab', serif;
+    color: #2D2E30;
+    font-weight: 700;
+    font-size: 30px;
+}
+
+.foot_last {
+    min-height: 50px;
+    background-color: #47484B;
+}
+
+.foot_last h5 {
+    padding: 20px 0;
+    font-family: 'Roboto Slab', serif;
+    font-size: 10px;
+    font-weight: 400;
+    color: white;
+}
+
+.foot_last span {
+    font-family: 'Roboto Slab', serif;
+    font-size: 12px;
+    font-weight: 400;
+    color: white;
+}
